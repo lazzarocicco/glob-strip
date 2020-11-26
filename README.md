@@ -10,4 +10,8 @@ In the pd patch you can use "xglob_request.pd".
 
 From the "help -> browser" menu of pd you can open the file "xglob_request-help.pd" which contains the abstraction "xglob_request.pd" already initialized with the default parameters (address and port number).
 
+below a screenshot of xglob_request.pd (the plugin itself don't have gui)
+
+![screenshot of xglob_request.pd](use_example_xglob_request.png)
+
 
