@@ -25,3 +25,7 @@ In this repository you can find the two pd files in the "pure_data_abstraction" 
 Have fun
 
 Lazzaro
+
+a screenshot:
+
+![screenshot](glob-strip_screeshot.png)
