@@ -28,4 +28,4 @@ Lazzaro
 
 a screenshot:
 
-![screenshot](glob-strip_screeshot.png)
+![screenshot](glob-strip_screenshot.png)
