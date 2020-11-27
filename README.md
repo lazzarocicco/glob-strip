@@ -5,8 +5,10 @@ glob-strip is a standalone script designed to supply information to a pure data 
 
 The program has a GUI and is composed of a window always on top.
 
+![il logo del programma](logo_glob-strip.png)
+
 NB
-...
+----
 
 The window does not have a topbar. To close the program: click on the window and press the esc key.
 
