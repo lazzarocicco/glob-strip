@@ -7,7 +7,7 @@ set res_h  [winfo screenheight .]
 set w_app 240
 set h_app 400
 
-set west_distance [expr $res_w - 1100]
+set west_distance [expr $res_w / 4]
 
 frame .finestra
 pack .finestra -fill both -expand 1
