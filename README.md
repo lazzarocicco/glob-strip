@@ -3,7 +3,24 @@ glob-strip
 
 glob-strip is a standalone script designed to supply information to a pure data abstraction (information about files in the system, which can be used for managing playlists for example).
 
-The program has a GUI and is composed of a window always on top.
+The program has a GUI, the program window is always on top (-topmost).
+
+Dependency
+----------
+
+Tcl Tk (is most likely already installed on your computer)
+
+
+Install
+-------
+
+The script don't need installation, run: wish glob-strip.tcl
+
+Usage
+---
+
+the script has no instructions, it responds to client requests by providing lists of files. The client instructions (the pure data abstraction glob_request.pd) can be found in the pd file glob_request-help.pd.
+
 
 ![il logo del programma](logo_glob-strip.png)
 

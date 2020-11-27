@@ -1,3 +1,7 @@
+# META NAME glob-strip
+# META DESCRIPTION a gui server socket that may run in combination with glob_request.pd a pure data abstraction (more info https://github.com/marrongiallo/glob-strip) 
+# META AUTHOR <Lazzaro Ciccolella> lazzarocicco@gmail.com
+
 package require Tcl 8.5
 package require Tk
 set serverport 4000
